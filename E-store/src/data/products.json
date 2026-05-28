@@ -1,0 +1,648 @@
+[
+  {
+    "id": 101,
+    "name": "Xiaomi Air Fryer Pro",
+    "category": "Аэрогрили",
+    "specs": "6.5 л, 1800 Вт, 100 рецептов",
+    "price": "399 BYN",
+    "stock": 15,
+    "sold": 10,
+    "image": "/catalog/airfr/xiaomi.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Philips Air Fryer",
+    "category": "Аэрогрили",
+    "specs": "7.3 л, Rapid Air, сенсорный экран",
+    "price": "749 BYN",
+    "stock": 8,
+    "sold": 5,
+    "image": "/catalog/airfr/philips.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Tefal Easy Fry",
+    "category": "Аэрогрили",
+    "specs": "4.2 л, 8 программ, 1400 Вт",
+    "price": "329 BYN",
+    "stock": 12,
+    "sold": 7,
+    "image": "/catalog/airfr/tefal.jpeg"
+  },
+  {
+    "id": 104,
+    "name": "Cosori Premium",
+    "category": "Аэрогрили",
+    "specs": "5.5 л, 11 программ, сенсор",
+    "price": "449 BYN",
+    "stock": 10,
+    "sold": 10,
+    "image": "/catalog/airfr/airfrmain.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Kitfort KT-1635",
+    "category": "Аэрогрили",
+    "specs": "5.5 л, 1800 Вт, 8 программ",
+    "price": "279 BYN",
+    "stock": 6,
+    "sold": 3,
+    "image": "/catalog/airfr/kitfort.jpg"
+  },
+  {
+    "id": 106,
+    "name": "GFGRIL GFA-3500",
+    "category": "Аэрогрили",
+    "specs": "3.5 л, LED-дисплей, 8 программ",
+    "price": "249 BYN",
+    "stock": 9,
+    "sold": 2,
+    "image": "/catalog/airfr/gf.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Polaris PAF 0604",
+    "category": "Аэрогрили",
+    "specs": "6 л, 1800 Вт, 10 программ",
+    "price": "359 BYN",
+    "stock": 7,
+    "sold": 4,
+    "image": "/catalog/airfr/polaris.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Redmond SkyFryer",
+    "category": "Аэрогрили",
+    "specs": "5 л, 1500 Вт, 8 авто-программ",
+    "price": "299 BYN",
+    "stock": 11,
+    "sold": 6,
+    "image": "/catalog/airfr/redmond.png"
+  },
+
+  {
+    "id": 201,
+    "name": "Sony WH-1000XM5",
+    "category": "Наушники",
+    "specs": "Беспроводные, шумоподавление, 30 ч",
+    "price": "1 299 BYN",
+    "stock": 8,
+    "sold": 12,
+    "image": "/catalog/headphones/sony.jpg"
+  },
+  {
+    "id": 202,
+    "name": "AirPods 4",
+    "category": "Наушники",
+    "specs": "Адаптивный шумодав, MagSafe, USB-C",
+    "price": "999 BYN",
+    "stock": 20,
+    "sold": 15,
+    "image": "/catalog/headphones/airpods4.jpg"
+  },
+  {
+    "id": 203,
+    "name": "JBL Tour One M2",
+    "category": "Наушники",
+    "specs": "Шумоподавление, 50 ч, адаптивный звук",
+    "price": "899 BYN",
+    "stock": 12,
+    "sold": 5,
+    "image": "/catalog/headphones/jbl.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Nothing Ear (2)",
+    "category": "Наушники",
+    "specs": "Прозрачный дизайн, Hi-Res Audio, ANC",
+    "price": "599 BYN",
+    "stock": 15,
+    "sold": 8,
+    "image": "/catalog/headphones/nothing2.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Bose QuietComfort Ultra",
+    "category": "Наушники",
+    "specs": "Пространственный звук, ANC, 24 ч",
+    "price": "1 499 BYN",
+    "stock": 6,
+    "sold": 3,
+    "image": "/catalog/headphones/bose.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Sennheiser Momentum 4",
+    "category": "Наушники",
+    "specs": "60 ч работы, aptX Adaptive, ANC",
+    "price": "1 199 BYN",
+    "stock": 9,
+    "sold": 4,
+    "image": "/catalog/headphones/senn.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Beats Studio Pro",
+    "category": "Наушники",
+    "specs": "Персонализированный звук, USB-C",
+    "price": "1 099 BYN",
+    "stock": 7,
+    "sold": 6,
+    "image": "/catalog/headphones/beats.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Huawei FreeBuds Pro 3",
+    "category": "Наушники",
+    "specs": "ANC 3.0, двойной драйвер, 31 ч",
+    "price": "699 BYN",
+    "stock": 14,
+    "sold": 9,
+    "image": "/catalog/headphones/huawei.jpg"
+  },
+
+  {
+    "id": 301,
+    "name": "MacBook Air M5",
+    "category": "Ноутбуки",
+    "specs": "13.6\", M5, 8 ГБ, 1 ТБ, Sky blue",
+    "price": "6 100 BYN",
+    "stock": 5,
+    "sold": 3,
+    "image": "/catalog/laptops/skyblue.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Gigabyte G6X 9KG",
+    "category": "Ноутбуки",
+    "specs": "16\", OLED, Intel Core i7-13650HX, 16 ГБ, 1 ТБ",
+    "price": "3 799 BYN",
+    "stock": 4,
+    "sold": 2,
+    "image": "/catalog/laptops/g6x.jpg"
+  },
+  {
+    "id": 303,
+    "name": "ASUS VivoBook S16",
+    "category": "Ноутбуки",
+    "specs": "16\", Intel Core 5 210H, 16 ГБ, 512 ГБ",
+    "price": "2 499 BYN",
+    "stock": 7,
+    "sold": 5,
+    "image": "/catalog/laptops/asus.jpg"
+  },
+  {
+    "id": 304,
+    "name": "Apple MacBook Neo 13",
+    "category": "Ноутбуки",
+    "specs": "13\", OLED, A18 Pro, 16 ГБ, 512 ГБ",
+    "price": "2 668 BYN",
+    "stock": 6,
+    "sold": 4,
+    "image": "/catalog/laptops/neo.jpg"
+  },
+  {
+    "id": 305,
+    "name": "ASUS TUF Gaming A16",
+    "category": "Ноутбуки",
+    "specs": "15.6\", Intel Core i9, 16 ГБ, 512 ГБ",
+    "price": "4 500 BYN",
+    "stock": 3,
+    "sold": 1,
+    "image": "/catalog/laptops/asustuf16.jpg"
+  },
+  {
+    "id": 306,
+    "name": "HP Victus 15",
+    "category": "Ноутбуки",
+    "specs": "16\", OLED, Intel i5-10400f, 16 ГБ, 512 ГБ",
+    "price": "2 300 BYN",
+    "stock": 8,
+    "sold": 6,
+    "image": "/catalog/laptops/hp15.jpg"
+  },
+  {
+    "id": 307,
+    "name": "HONOR MagicBook X16",
+    "category": "Ноутбуки",
+    "specs": "16\", AMD Ryzen 7 260, 32 ГБ, 1 ТБ",
+    "price": "3 950 BYN",
+    "stock": 5,
+    "sold": 2,
+    "image": "/catalog/laptops/magicx16.jpg"
+  },
+  {
+    "id": 308,
+    "name": "Huawei MateBook 14",
+    "category": "Ноутбуки",
+    "specs": "14\", Intel Core i5-12400f, 16 ГБ, 512 ГБ",
+    "price": "3 299 BYN",
+    "stock": 6,
+    "sold": 3,
+    "image": "/catalog/laptops/mate14.jpg"
+  },
+
+  {
+    "id": 401,
+    "name": "Apple iMac M5",
+    "category": "Компьютеры",
+    "specs": "24\", M5, 8 ГБ, 256 ГБ",
+    "price": "6 499 BYN",
+    "stock": 4,
+    "sold": 2,
+    "image": "/catalog/pc/imac.jpeg"
+  },
+  {
+    "id": 402,
+    "name": "Mac mini M5",
+    "category": "Компьютеры",
+    "specs": "M5, 8 ГБ, 256 ГБ",
+    "price": "2 799 BYN",
+    "stock": 6,
+    "sold": 3,
+    "image": "/catalog/pc/macmini.jpg"
+  },
+  {
+    "id": 403,
+    "name": "HP EliteDesk",
+    "category": "Компьютеры",
+    "specs": "Intel i5, 16 ГБ, 512 ГБ",
+    "price": "2 199 BYN",
+    "stock": 8,
+    "sold": 5,
+    "image": "/catalog/pc/hp.jpg"
+  },
+  {
+    "id": 404,
+    "name": "Dell Inspiron",
+    "category": "Компьютеры",
+    "specs": "Intel i7, 32 ГБ, 1 ТБ",
+    "price": "3 499 BYN",
+    "stock": 5,
+    "sold": 2,
+    "image": "/catalog/pc/dell.jpg"
+  },
+  {
+    "id": 405,
+    "name": "Lenovo IdeaCentre",
+    "category": "Компьютеры",
+    "specs": "Ryzen 7, 16 ГБ, 512 ГБ",
+    "price": "2 499 BYN",
+    "stock": 7,
+    "sold": 4,
+    "image": "/catalog/pc/lenovo.jpg"
+  },
+  {
+    "id": 406,
+    "name": "ASUS ExpertCenter",
+    "category": "Компьютеры",
+    "specs": "Intel i5, 8 ГБ, 256 ГБ",
+    "price": "1 899 BYN",
+    "stock": 9,
+    "sold": 6,
+    "image": "/catalog/pc/asus.jpg"
+  },
+  {
+    "id": 407,
+    "name": "Mac Studio M2",
+    "category": "Компьютеры",
+    "specs": "M2 Max, 32 ГБ, 512 ГБ",
+    "price": "9 999 BYN",
+    "stock": 3,
+    "sold": 1,
+    "image": "/catalog/pc/m2.jfif"
+  },
+  {
+    "id": 408,
+    "name": "Acer Aspire",
+    "category": "Компьютеры",
+    "specs": "Intel i3, 8 ГБ, 256 ГБ",
+    "price": "1 499 BYN",
+    "stock": 10,
+    "sold": 7,
+    "image": "/catalog/pc/acer.jpg"
+  },
+  {
+    "id": 501,
+    "name": "iPhone 17 Pro",
+    "category": "Смартфоны",
+    "specs": "Apple A19 Pro, 12 ГБ, 512 ГБ, Silver",
+    "price": "3 599 BYN",
+    "stock": 12,
+    "sold": 15,
+    "image": "/catalog/phones/ip17pro.png"
+  },
+  {
+    "id": 502,
+    "name": "Samsung S25 Ultra",
+    "category": "Смартфоны",
+    "specs": "Snapdragon 8 Elite, 12 ГБ, 1 ТБ, Black",
+    "price": "5 499 BYN",
+    "stock": 8,
+    "sold": 6,
+    "image": "/catalog/phones/samsung25.jpg"
+  },
+  {
+    "id": 503,
+    "name": "Xiaomi 14 Pro",
+    "category": "Смартфоны",
+    "specs": "Snapdragon 8 ELite, 12 ГБ, 256 ГБ, Leica",
+    "price": "3 499 BYN",
+    "stock": 10,
+    "sold": 8,
+    "image": "/catalog/phones/xiaomi14.jpg"
+  },
+  {
+    "id": 504,
+    "name": "iPhone 15 Pro",
+    "category": "Смартфоны",
+    "specs": "Apple A17 Pro, 8 ГБ, 256 ГБ, Natural Titanium",
+    "price": "3 200 BYN",
+    "stock": 6,
+    "sold": 10,
+    "image": "/catalog/phones/IP15100.png"
+  },
+  {
+    "id": 505,
+    "name": "Google Pixel 10",
+    "category": "Смартфоны",
+    "specs": "Snapdragon 8+ Gen 1, 12 ГБ, 256 ГБ, Black",
+    "price": "2 499 BYN",
+    "stock": 7,
+    "sold": 4,
+    "image": "/catalog/phones/google10.jpg"
+  },
+  {
+    "id": 506,
+    "name": "OnePlus 12",
+    "category": "Смартфоны",
+    "specs": "Snapdragon 8 Gen 3, 16 ГБ, 512 ГБ, White",
+    "price": "4 299 BYN",
+    "stock": 5,
+    "sold": 3,
+    "image": "/catalog/phones/oneplus12.jpg"
+  },
+  {
+    "id": 507,
+    "name": "Honor Magic 6 Pro",
+    "category": "Смартфоны",
+    "specs": "Snapdragon 8 Gen 3, 12 ГБ, 512 ГБ, Green",
+    "price": "3 799 BYN",
+    "stock": 9,
+    "sold": 5,
+    "image": "/catalog/phones/honor6.jpg"
+  },
+  {
+    "id": 508,
+    "name": "ASUS ROG Phone 8",
+    "category": "Смартфоны",
+    "specs": "Snapdragon 8 Gen 3, 16 ГБ, 512 ГБ, Grey",
+    "price": "5 299 BYN",
+    "stock": 4,
+    "sold": 2,
+    "image": "/catalog/phones/asus.jpg"
+  },
+
+  {
+    "id": 601,
+    "name": "iPad Pro",
+    "category": "Планшеты",
+    "specs": "11\", M4, 8 ГБ, 256 ГБ",
+    "price": "4 299 BYN",
+    "stock": 6,
+    "sold": 4,
+    "image": "/catalog/tablets/ipadpro.jpg"
+  },
+  {
+    "id": 602,
+    "name": "iPad Air",
+    "category": "Планшеты",
+    "specs": "11\", M2, 8 ГБ, 128 ГБ",
+    "price": "2 799 BYN",
+    "stock": 8,
+    "sold": 6,
+    "image": "/catalog/tablets/ipadiar.jpg"
+  },
+  {
+    "id": 603,
+    "name": "Samsung Tab S9 Ultra",
+    "category": "Планшеты",
+    "specs": "14.6\", Snapdragon 8 Gen 2, 12 ГБ",
+    "price": "4 999 BYN",
+    "stock": 5,
+    "sold": 2,
+    "image": "/catalog/tablets/samsung.jpg"
+  },
+  {
+    "id": 604,
+    "name": "Xiaomi Pad 6 Pro",
+    "category": "Планшеты",
+    "specs": "11\", Snapdragon 8+ Gen 1, 8 ГБ",
+    "price": "1 899 BYN",
+    "stock": 10,
+    "sold": 7,
+    "image": "/catalog/tablets/xiaomi.jpg"
+  },
+  {
+    "id": 605,
+    "name": "Huawei MatePad Pro",
+    "category": "Планшеты",
+    "specs": "13.2\", Kirin 9000S, 12 ГБ",
+    "price": "3 299 BYN",
+    "stock": 7,
+    "sold": 3,
+    "image": "/catalog/tablets/huawei.jpg"
+  },
+  {
+    "id": 606,
+    "name": "Lenovo Tab P12",
+    "category": "Планшеты",
+    "specs": "12.7\", Dimensity 7050, 8 ГБ",
+    "price": "1 599 BYN",
+    "stock": 9,
+    "sold": 5,
+    "image": "/catalog/tablets/lenovo.jpg"
+  },
+  {
+    "id": 607,
+    "name": "OnePlus Pad",
+    "category": "Планшеты",
+    "specs": "11.61\", Dimensity 9000, 8 ГБ",
+    "price": "1 799 BYN",
+    "stock": 6,
+    "sold": 2,
+    "image": "/catalog/tablets/oneplus.jfif"
+  },
+  {
+    "id": 608,
+    "name": "iPad mini",
+    "category": "Планшеты",
+    "specs": "8.3\", A15 Bionic, 4 ГБ",
+    "price": "2 199 BYN",
+    "stock": 11,
+    "sold": 8,
+    "image": "/catalog/tablets/mini.jpeg"
+  },
+
+  {
+    "id": 701,
+    "name": "Samsung QLED 4K",
+    "category": "Телевизоры",
+    "specs": "55\", QLED, 4K, Tizen",
+    "price": "2 999 BYN",
+    "stock": 5,
+    "sold": 3,
+    "image": "/catalog/tv/samsung.jpg"
+  },
+  {
+    "id": 702,
+    "name": "LG OLED C3",
+    "category": "Телевизоры",
+    "specs": "55\", OLED, 4K, webOS",
+    "price": "4 499 BYN",
+    "stock": 4,
+    "sold": 2,
+    "image": "/catalog/tv/lg.jpg"
+  },
+  {
+    "id": 703,
+    "name": "Sony Bravia XR",
+    "category": "Телевизоры",
+    "specs": "65\", Mini-LED, 4K, Google TV",
+    "price": "5 999 BYN",
+    "stock": 3,
+    "sold": 1,
+    "image": "/catalog/tv/sony.jpg"
+  },
+  {
+    "id": 704,
+    "name": "Xiaomi TV A Pro",
+    "category": "Телевизоры",
+    "specs": "55\", 4K, Android TV, HDR",
+    "price": "1 899 BYN",
+    "stock": 8,
+    "sold": 5,
+    "image": "/catalog/tv/xiaomi.jpg"
+  },
+  {
+    "id": 705,
+    "name": "TCL C745",
+    "category": "Телевизоры",
+    "specs": "65\", QLED, 4K, Google TV, 144 Гц",
+    "price": "2 799 BYN",
+    "stock": 6,
+    "sold": 2,
+    "image": "/catalog/tv/tcl.jpg"
+  },
+  {
+    "id": 706,
+    "name": "Hisense U7K",
+    "category": "Телевизоры",
+    "specs": "55\", Mini-LED, 4K, VIDAA",
+    "price": "2 199 BYN",
+    "stock": 7,
+    "sold": 4,
+    "image": "/catalog/tv/hise.jpg"
+  },
+  {
+    "id": 707,
+    "name": "Philips Ambilight",
+    "category": "Телевизоры",
+    "specs": "55\", 4K, Ambilight, Android TV",
+    "price": "2 499 BYN",
+    "stock": 5,
+    "sold": 3,
+    "image": "/catalog/tv/philips.jpg"
+  },
+  {
+    "id": 708,
+    "name": "Haier Smart TV",
+    "category": "Телевизоры",
+    "specs": "50\", 4K, Android TV, HDR10",
+    "price": "1 499 BYN",
+    "stock": 9,
+    "sold": 6,
+    "image": "/catalog/tv/haier.jpg"
+  },
+
+  {
+    "id": 801,
+    "name": "Apple Watch Series 9",
+    "category": "Умные часы",
+    "specs": "45 мм, GPS, Always-On, S9",
+    "price": "1 799 BYN",
+    "stock": 10,
+    "sold": 8,
+    "image": "/catalog/watches/apple.jpg"
+  },
+  {
+    "id": 802,
+    "name": "Samsung Galaxy Watch 6",
+    "category": "Умные часы",
+    "specs": "44 мм, Wear OS, ECG, 40 ч",
+    "price": "1 299 BYN",
+    "stock": 8,
+    "sold": 5,
+    "image": "/catalog/watches/samsung.jpg"
+  },
+  {
+    "id": 803,
+    "name": "Garmin Venu 3",
+    "category": "Умные часы",
+    "specs": "45 мм, AMOLED, GPS, 14 дней",
+    "price": "1 899 BYN",
+    "stock": 6,
+    "sold": 3,
+    "image": "/catalog/watches/garmin.jpg"
+  },
+  {
+    "id": 804,
+    "name": "Huawei Watch GT 4",
+    "category": "Умные часы",
+    "specs": "46 мм, AMOLED, GPS, 14 дней",
+    "price": "999 BYN",
+    "stock": 12,
+    "sold": 7,
+    "image": "/catalog/watches/huawei.jpg"
+  },
+  {
+    "id": 805,
+    "name": "Xiaomi Watch 2 Pro",
+    "category": "Умные часы",
+    "specs": "47 мм, Wear OS, GPS, 65 ч",
+    "price": "1 099 BYN",
+    "stock": 9,
+    "sold": 4,
+    "image": "/catalog/watches/xiaomi.jpg"
+  },
+  {
+    "id": 806,
+    "name": "Amazfit Balance",
+    "category": "Умные часы",
+    "specs": "46 мм, AMOLED, GPS, 14 дней",
+    "price": "799 BYN",
+    "stock": 11,
+    "sold": 6,
+    "image": "/catalog/watches/amaz.jpg"
+  },
+  {
+    "id": 807,
+    "name": "Google Pixel Watch 2",
+    "category": "Умные часы",
+    "specs": "41 мм, Wear OS, Fitbit, 24 ч",
+    "price": "1 599 BYN",
+    "stock": 7,
+    "sold": 3,
+    "image": "/catalog/watches/google.jpg"
+  },
+  {
+    "id": 808,
+    "name": "OnePlus Watch 2",
+    "category": "Умные часы",
+    "specs": "47 мм, Wear OS, 100 ч, GPS",
+    "price": "1 399 BYN",
+    "stock": 8,
+    "sold": 2,
+    "image": "/catalog/watches/oneplus.jpg"
+  }
+]
